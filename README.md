@@ -20,9 +20,9 @@
 
 # Findings
 
-## The data set contains 2000 points. 
-## The grads are serving in 88 different local universities. Comsats is at the top with 117 foreign grads.
-## The dataset has 183 unique foreign universities. Pakistan is the largest Phd producer as per the dataset.
-## Out of 2000 graduates, Pakistan produced 794 tailed by the UK at 103 and then the USA at 54.
-## Out of 2000, the data set has 438 PhD's. 335 foreign PhD's and 103 PhD's from Pakistani uni's. 72 are from UK and 103 are from USA. Highest PhD producer is university of Punjab (13). 
-## 107 professors are serving in the capital plus 151 in Punjab taking the total phd's serving in just one province to 258 which means almost 60% of phd's are serving in just one province. 
+#### The data set contains 2000 points. 
+#### The grads are serving in 88 different local universities. Comsats is at the top with 117 foreign grads.
+#### The dataset has 183 unique foreign universities. Pakistan is the largest Phd producer as per the dataset.
+#### Out of 2000 graduates, Pakistan produced 794 tailed by the UK at 103 and then the USA at 54.
+#### Out of 2000, the data set has 438 PhD's. 335 foreign PhD's and 103 PhD's from Pakistani uni's. 72 are from UK and 103 are from USA. Highest PhD producer is university of Punjab (13). 
+#### 107 professors are serving in the capital plus 151 in Punjab taking the total phd's serving in just one province to 258 which means almost 60% of phd's are serving in just one province. 
